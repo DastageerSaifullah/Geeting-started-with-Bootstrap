@@ -1,2 +1,2 @@
-# Geeting-started-with-Bootstrap
+# Getting-started-with-Bootstrap
 This is assignment from Testbook.com
